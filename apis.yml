@@ -1,0 +1,90 @@
+aid: wisk-aero
+name: Wisk Aero
+description: >-
+  Wisk Aero is an autonomous, all-electric eVTOL air taxi developer and a
+  wholly-owned subsidiary of The Boeing Company. Wisk is developing its Generation 6
+  aircraft, a four-passenger self-flying eVTOL designed to operate under human
+  supervisor oversight from a multi-vehicle supervision center, pursuing
+  certification under three FAA programs: Type Certification, Production
+  Certification, and Operation Certification. Wisk evolved from earlier Kitty
+  Hawk programs and has logged over 1,750 autonomous test flights across five
+  aircraft generations since 2010. Announced launch communities include
+  Houston, Texas and Brisbane, Australia (in support of the 2032 Olympic and
+  Paralympic Games). In March 2026 Wisk was selected by the White House to help
+  lead the safe U.S. introduction of autonomous air taxi flight. Wisk is
+  hardware- and operations-focused, with no public consumer or developer APIs.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://wisk.aero
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+position: 1
+access: 3rd-Party
+tags:
+  - Advanced Air Mobility
+  - Aerospace
+  - Air Taxi
+  - Autonomy
+  - Boeing
+  - eVTOL
+  - Electric Aviation
+  - FAA Certification
+  - Self-Flying
+  - Urban Air Mobility
+apis: []
+common:
+  - url: https://wisk.aero/
+    name: Wisk Aero Website
+    type: Website
+  - url: https://wisk.aero/about/
+    name: About Wisk
+    type: About
+  - url: https://wisk.aero/news/
+    name: Newsroom
+    type: Blog
+  - url: https://wisk.aero/aircraft/
+    name: Aircraft (Generation 6)
+    type: Product
+  - url: https://wisk.aero/autonomy/
+    name: Autonomy
+    type: Technology
+  - url: https://wisk.aero/safety/
+    name: Safety
+    type: Safety
+  - url: https://wisk.aero/community/
+    name: Communities
+    type: Portal
+  - url: https://wisk.aero/careers/
+    name: Careers
+    type: Careers
+  - url: https://wisk.aero/contact/
+    name: Contact
+    type: Contact
+  - url: https://www.boeing.com/
+    name: Boeing (Parent Company)
+    type: Parent
+  - url: https://www.faa.gov/newsroom
+    name: FAA Newsroom (Certification Tracking)
+    type: Regulator
+  - url: https://www.linkedin.com/company/wisk-aero/
+    name: LinkedIn
+    type: LinkedIn
+  - url: https://x.com/wiskaero
+    name: X (Twitter)
+    type: X
+  - url: https://www.youtube.com/@WiskAero
+    name: YouTube
+    type: YouTube
+  - url: https://www.instagram.com/wiskaero/
+    name: Instagram
+    type: Instagram
+  - url: https://wisk.aero/terms-of-use/
+    name: Terms of Use
+    type: TermsOfService
+  - url: https://wisk.aero/privacy-policy/
+    name: Privacy Policy
+    type: PrivacyPolicy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
