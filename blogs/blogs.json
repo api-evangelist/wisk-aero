@@ -3,9 +3,12 @@
   "feeds": [
     {
       "source": "https://wisk.aero/news/",
-      "error": "HTTPError"
+      "feed_url": "",
+      "saved": 0,
+      "method": "agent-scrape"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T13:20:45Z",
+  "agent_pulled": "2026-06-27"
 }
