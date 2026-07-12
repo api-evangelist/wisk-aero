@@ -34,6 +34,8 @@ tags:
   - Urban Air Mobility
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/wisk-aero-domain-security.yml
   - url: https://wisk.aero/
     name: Wisk Aero Website
     type: Website
