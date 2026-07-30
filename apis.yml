@@ -13,7 +13,18 @@ description: >-
   Paralympic Games). In March 2026 Wisk was selected by the White House to help
   lead the safe U.S. introduction of autonomous air taxi flight. Wisk is
   hardware- and operations-focused, with no public consumer or developer APIs.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/wisk-aero.png
 url: https://wisk.aero
 created: '2026-05-23'
 modified: '2026-05-23'
